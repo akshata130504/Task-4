@@ -47,14 +47,19 @@ Open terminal / command prompt in the `src` directory and run:
 
 ## 💻 Sample Console Output
 === Modular Calculator ===
+
 Enter first number: 10
+
 Enter second number: 2
+
 Choose operation (+ - * /): /
 
 Result of Division: 5.0
 
 Before method call, value is: 50
+
 Inside method, value is: 100
+
 After method call, value is: 50
 
 
