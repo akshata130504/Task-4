@@ -17,7 +17,7 @@ Each arithmetic operation is implemented as a separate method to demonstrate mod
 
 
 ## 📂 Project Structure
-ava-Internship-Task-4
+Java-Internship-Task-4
 │
 ├── src
 │ └── ModularCalculator.java
